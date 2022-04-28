@@ -43,7 +43,7 @@ const Statewise = () => {
                   
                     </li>
                     
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="https://utkarsh742.github.io/My-Portfolio/">Contact</a></li>
                 </ul>
                 <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
             </div>

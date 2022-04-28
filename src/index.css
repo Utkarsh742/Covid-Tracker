@@ -6,17 +6,12 @@
     font-family: "Montserrat", sans-serif;
     text-align: center;
 } */
-
-    body
-    {
-        background:url("Sources/Untitled design.gif");
-    }
-  
-  
-
-h1 {
-    border: 2px solid grey;
+.Background
+{
+    background:url("Sources/Untitled design.gif");
+    background-attachment: fixed;
 }
+
 
 .cont {
     width: 90%;
@@ -77,7 +72,7 @@ tbody tr td:hover {
 }
 
 footer {
-    
+    position: relative;
     bottom: 0;
     width: 100%;
     font-family: "Cursive";
@@ -444,3 +439,9 @@ nav .wrapper
 .wrapper input{
     display: none;
 }
+.Charts
+{
+    text-align: center;
+    margin:auto 30%;
+    
+} 
